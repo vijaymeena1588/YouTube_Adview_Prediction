@@ -1,7 +1,7 @@
 # 📺 YouTube Adview Prediction
 
 ## 📌 Project Overview
-This project was developed as part of my **Internshala Studio Internship**, where the goal was to predict the number of **YouTube adviews** a video will receive based on other video metrics such as views, likes, dislikes, comments, published date, duration, and category.  
+This project was developed as part of my Internship, where the goal was to predict the number of **YouTube adviews** a video will receive based on other video metrics such as views, likes, dislikes, comments, published date, duration, and category.  
 
 YouTube advertisers pay content creators based on adviews and clicks. By building a reliable prediction model, content creators and marketers can better estimate ad revenue and optimize their strategies.
 
